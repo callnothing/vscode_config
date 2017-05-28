@@ -1,0 +1,10 @@
+[
+    { "key": "alt+backspace",       "command": "deleteLeft",
+                                     "when": "editorTextFocus && !editorReadonly" },
+    { "key": "ctrl+e",                   "command": "cursorEnd",
+                                     "when": "editorTextFocus" },
+    { "key": "ctrl+a",                   "command": "cursorTop",
+                                     "when": "editorTextFocus" },
+    { "key": "ctrl+k",          "command": "deleteAllRight",
+                                     "when": "editorTextFocus && !editorReadonly" }
+]
