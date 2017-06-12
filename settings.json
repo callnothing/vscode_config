@@ -1,0 +1,21 @@
+{
+    "standard.validate": [
+        "javascript",
+        "javascriptreact",
+        "vue",
+        "html"
+    ],
+    "standard.options": {
+        "plugins": ["html", "vue"]
+    },
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+    "editor.renderIndentGuides": false,
+    "editor.fontFamily": "Source Code Pro Consolas, 'Courier New', monospace",
+    "window.zoomLevel": 0,
+    "files.autoSave": "off",
+    "typescript.check.npmIsInstalled": false,
+    "editor.wordWrap": "on",
+    "workbench.welcome.enabled": true,
+    "workbench.editor.enablePreviewFromQuickOpen": false
+}
