@@ -17,5 +17,6 @@
     "typescript.check.npmIsInstalled": false,
     "editor.wordWrap": "on",
     "workbench.welcome.enabled": true,
-    "workbench.editor.enablePreviewFromQuickOpen": false
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "workbench.editor.enablePreview": false
 }
